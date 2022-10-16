@@ -1,0 +1,18 @@
+h1 {
+color: blueviolet;
+}
+img{
+width: 400px;
+}
+#thierdiv{
+        height: 600px;
+        width: 500px;
+        background-color: aquamarine;
+}
+    #spainId{
+        font-size: 18px;
+        margin: 50px;
+ }
+ .divclass{
+    padding: 50px;
+    border: 10px solid greenyellow;
